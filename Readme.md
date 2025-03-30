@@ -1,13 +1,6 @@
 # Deep Live Cam
 
-A Dockerized real-time camera application with integrated deep learning capabilities.
-
-## Project Overview
-
-Deep Live Cam is a containerized real-time camera application that can:
-- Capture real-time camera feed
-- Perform real-time analysis using deep learning models
-- Support GPU acceleration with CUDA
+A Dockerized https://github.com/hacksider/Deep-Live-Cam
 
 ## System Requirements
 
